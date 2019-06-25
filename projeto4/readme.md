@@ -12,4 +12,4 @@
 [Sensor de umidade](Umidade.md)
 
 ## Sensor de Água
-[sensor de agua](agua.imd)
+[sensor de agua](Agua.imd)
